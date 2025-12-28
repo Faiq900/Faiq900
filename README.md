@@ -5,7 +5,6 @@
 📍 United Kingdom
 
 I’m a recent Computer Science graduate with hands-on experience building **full-stack web applications** and **mobile apps** through university projects. I enjoy creating practical, user-friendly solutions with a strong focus on **usability, clean design, and real-world functionality**.
-
 ---
 
 ## 🚀 Technical Skills
@@ -23,7 +22,6 @@ I’m a recent Computer Science graduate with hands-on experience building **ful
 - VS Code, IntelliJ IDEA  
 - Figma (basic UI/UX)  
 - Agile development  
-
 ---
 
 ## 📱 Featured Projects
@@ -34,9 +32,6 @@ A full-stack web application that allows users to browse destinations and make t
 - Node.js & Express  
 - MySQL database  
 - User-friendly interface with a focus on usability  
-
-👉 
-
 ---
 
  🍱 Food Delivery Mobile App (Flutter)
@@ -45,9 +40,6 @@ A mobile application that enables users to browse restaurants, add items to a ca
 - User authentication  
 - Shopping cart functionality  
 - Clean, mobile-first UI  
-
-👉 
-
 ---
 
 ## 🎯 Interests
@@ -55,7 +47,6 @@ A mobile application that enables users to browse restaurants, add items to a ca
 - UI/UX and usability  
 - Building real-world, user-focused applications  
 - Continuous learning  
-
 ---
 
 
