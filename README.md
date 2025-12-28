@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Faiq 👋
 
-<!--
-**Faiq900/Faiq900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc Computer Science Graduate**  
+💻 Web & Mobile App Developer  
+📍 United Kingdom
 
-Here are some ideas to get you started:
+I’m a recent Computer Science graduate with hands-on experience building **full-stack web applications** and **mobile apps** through university projects. I enjoy creating practical, user-friendly solutions with a strong focus on **usability, clean design, and real-world functionality**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Skills
+
+**Languages & Frameworks**
+- JavaScript, HTML, CSS  
+- Dart (Flutter)  
+- Node.js, Express  
+- SQL / MySQL  
+- Firebase / Firestore  
+
+**Tools & Technologies**
+- Gitlab 
+- REST APIs  
+- VS Code, IntelliJ IDEA  
+- Figma (basic UI/UX)  
+- Agile development  
+
+---
+
+## 📱 Featured Projects
+
+ ✈️ Travel Booking Website
+A full-stack web application that allows users to browse destinations and make travel bookings.
+- HTML, CSS, JavaScript  
+- Node.js & Express  
+- MySQL database  
+- User-friendly interface with a focus on usability  
+
+👉 
+
+---
+
+ 🍱 Food Delivery Mobile App (Flutter)
+A mobile application that enables users to browse restaurants, add items to a cart, and place orders.
+- Flutter & Dart  
+- User authentication  
+- Shopping cart functionality  
+- Clean, mobile-first UI  
+
+👉 
+
+---
+
+## 🎯 Interests
+- Web and mobile application development  
+- UI/UX and usability  
+- Building real-world, user-focused applications  
+- Continuous learning  
+
+---
+
+
