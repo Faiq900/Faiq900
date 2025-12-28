@@ -1,52 +1,14 @@
-# Hi, I'm Faiq 👋
+# Hi There! 👋
 
 🎓 **BSc Computer Science Graduate**  
-💻 Web & Mobile App Developer  
-📍 United Kingdom
+💻 Web & Mobile App Developer | 📍 UK
 
-I’m a recent Computer Science graduate with hands-on experience building **full-stack web applications** and **mobile apps** through university projects. I enjoy creating practical, user-friendly solutions with a strong focus on **usability, clean design, and real-world functionality**.
+I’m a recent Computer Science graduate with experience building a **travel booking website** and a **food delivery mobile app**. I enjoy creating practical, user-friendly applications with clean design and good usability.
 ---
-
-## 🚀 Technical Skills
-
-**Languages & Frameworks**
-- JavaScript, HTML, CSS  
-- Dart (Flutter)  
-- Node.js, Express  
-- SQL / MySQL  
-- Firebase / Firestore  
-
-**Tools & Technologies**
-- Gitlab 
-- REST APIs  
-- VS Code, IntelliJ IDEA  
-- Figma (basic UI/UX)  
-- Agile development  
+## 🚀 Projects
+- **Travel Booking Website** – Full-stack web app using HTML, CSS, JavaScript, Node.js & MySQL  
+- **Food Delivery App** – Flutter mobile app with authentication and shopping cart functionality
 ---
-
-## 📱 Featured Projects
-
- ✈️ Travel Booking Website
-A full-stack web application that allows users to browse destinations and make travel bookings.
-- HTML, CSS, JavaScript  
-- Node.js & Express  
-- MySQL database  
-- User-friendly interface with a focus on usability  
----
-
- 🍱 Food Delivery Mobile App (Flutter)
-A mobile application that enables users to browse restaurants, add items to a cart, and place orders.
-- Flutter & Dart  
-- User authentication  
-- Shopping cart functionality  
-- Clean, mobile-first UI  
----
-
-## 🎯 Interests
-- Web and mobile application development  
-- UI/UX and usability  
-- Building real-world, user-focused applications  
-- Continuous learning  
----
-
+## 🛠 Tech Stack
+JavaScript • HTML • CSS • Flutter • Dart • Node.js • MySQL • Firebase • Git
 
